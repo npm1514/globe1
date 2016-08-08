@@ -2,7 +2,7 @@ var map = new Datamap({
   scope: 'world',
   element: document.getElementById('container1'),
   projection: 'orthographic',
-  height: 800,
+  height: 600,
   fills: {
     defaultFill: 'green'
   },
